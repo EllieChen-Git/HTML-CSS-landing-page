@@ -1,0 +1,38 @@
+body {
+  background-color: #B0E0E6;
+  margin-left: 50px;
+  
+}
+
+@media (min-height: 400px) {
+  p {
+    font-size: 12px;
+  }
+}
+
+h1 {
+  text-align: center;
+}
+
+p , ol {
+  font-size: 13px;
+}
+
+img {
+  display: inline-block;
+  height: 1em;
+  width: 1em;
+}
+
+nav {
+  font-size: 15px;
+  position: fixed;
+  top: 0;
+  left: 900px;
+}
+
+iframe {
+  margin: auto;
+  height: 200px;
+  display: block;
+}
